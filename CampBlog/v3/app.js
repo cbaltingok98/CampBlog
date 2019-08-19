@@ -68,5 +68,5 @@ app.get("/campgrounds/:id", function (req, res) {
 });
 
 app.listen(3000, '127.0.0.1', function () {
-    console.log("The YelpCamp Server Has Started!");
+    console.log("The campBlog Server Has Started!");
 });
